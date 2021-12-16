@@ -1,3 +1,11 @@
+### Hi there, I'm Shenna 👋
+
+## I'm a FullStack Developer!
+
+- 🔭 AI Enthusiast 
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Learn as much as I could
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com/in/mochammad-shenna-wardana/)](https://www.linkedin.com/in/mochammad-shenna-wardana/)
 
