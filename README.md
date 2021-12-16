@@ -8,6 +8,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com/in/mochammad-shenna-wardana/)](https://www.linkedin.com/in/mochammad-shenna-wardana/)
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />][figma]
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mochammadshenna&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
