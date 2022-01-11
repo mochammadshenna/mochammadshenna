@@ -3,7 +3,7 @@
 
 - 🔭 AI Enthusiast 
 - 🌱 Learn to code </> 
-- 🥅 2022 Goals: Creating the social impact for people with disabilities
+- ⚡️ Creating the social impact for people with disabilities
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com/in/mochammad-shenna-wardana/)](https://www.linkedin.com/in/mochammad-shenna-wardana/)
