@@ -2,7 +2,7 @@
 
 
 - 🔭 AI Enthusiast 
-- 🌱 Learn Dev Tech
+- 🌱 Learn to code </> 
 - 🥅 2022 Goals: Learn as much as I could
 
 
