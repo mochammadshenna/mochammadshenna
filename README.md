@@ -40,8 +40,3 @@
 <br />
 <br />
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=mochammadshenna&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Curriculum-Vitae-Mochammad-Shenna-Wardana.pdf)
