@@ -3,7 +3,7 @@
 
 ## ⭐ About Me
 
-🎓 I am Mochammad Shenna Wardana, a software engineer with experiences in front-end (Vue, React, React Native) back-end (Golang, NodeJs, PHP). Currently, I work as a Software Engineer at Pintarnya, where I developed its job-seeking platform on both the front-end and the back-end side.
+🎓 I am Mochammad Shenna Wardana, a software engineer with experiences in front-end (Vue, React, React Native) back-end (Golang, NodeJs, PHP). Currently, I work as a Software Engineer at Archipelago Hotels, where I developed its platform on both the front-end and the back-end side.
 
 
 - 🌱 The self-thought programmer </> 
